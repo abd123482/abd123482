@@ -18,6 +18,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode,c" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pascal/pascal-original.svg" width="48" height="48"/>
 </p>
 
 ---
