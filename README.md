@@ -76,11 +76,4 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1493,100:1E90FF&height=120&section=footer"/>
-</p>
 
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,100:00C4FF&height=120&section=footer"/>
-</p>
