@@ -54,7 +54,7 @@
     </td>
     <td width="50%">
       <h3 align="center">📌 Task_Master_Full_Project</h3>
-      <p align="center">TASKMASTER app to create, manage, track tasks with deadlines, priorities, statuses, options to filter, edit,delete tasks.</p>
+      <p align="center">TASKMASTER app to create, manage, track tasks with deadlines, priorities, statuses, options to filter, edit, delete tasks.</p>
       <p align="center">
         <a href="https://github.com/abd123482/Task_Master_Full_Project">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=abd123482&repo=Task_Master_Full_Project&theme=tokyonight" />
@@ -62,6 +62,9 @@
       </p>
     </td>
   </tr>
+</table>
+
+## 📫 Connect with me
 
 
   ## 📫 Connect with me
