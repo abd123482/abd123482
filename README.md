@@ -28,7 +28,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abd123482&theme=tokyonight" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd123482&layout=compact&theme=tokyonight&hide=python" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd123482&layout=compact&theme=tokyonight" height="160"/>
 </p>
 
 ## 🧰 Languages & Tools
