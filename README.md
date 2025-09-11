@@ -79,7 +79,8 @@
 </p>
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/abdou2007?theme=dark&font=Karma&ext=contest)
-[🔗 Daily Work Repository](https://github.com/abdou2007/DAILY-WORK-REPO)
+[🔗 Daily Work Repository](https://github.com/abd123482
+/DAILY-WORK-REPO)
 
  
 
