@@ -78,7 +78,7 @@
   </a>
 </p>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/NAS_rO?theme=dark&font=Karma&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/abdou2007?theme=dark&font=Karma&ext=contest)
 
  
 
