@@ -1,4 +1,11 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:8A2BE2,100:00E5FF&height=200&section=header&text=NAS.rO&fontSize=42&fontColor=ffffff&animation=twinkling"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=600&color=8A2BE2&center=true&vCenter=true&width=500&lines=Front-end+Developer;Web+Designer;C%2FC%2B%2B%2FJava+Learner;Creative+Mind;Always+Exploring+✨"/> </p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:F5F5F5,100:DDDDDD&height=120&section=header&text=NAS.rO&fontSize=40&fontColor=0d1117&animation=fadeIn"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=20&duration=2600&pause=800&color=0D1117&center=true&vCenter=true&width=520&lines=Front-end+Developer;Modern+Web+Interfaces;Clean+Design+%26+Smooth+UX;C%2FC%2B%2B%2FJava+Learner;Let%27s+Build+Something+Cool+✨"/>
+</p>
+
 ✨ About Me
 
 💻 Passionate about Web Development & modern UI design
