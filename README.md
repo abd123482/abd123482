@@ -22,24 +22,14 @@
 
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,java,git,github,vscode,c,cpp" /> </p>
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api?username=abd123482&show_icons=true&theme=react&bg_color=0D1117&title_color=00E5FF&icon_color=8A2BE2&text_color=FFFFFF"
-  />
-  <img
-    height="160"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abd123482&theme=react&background=0D1117&ring=8A2BE2&fire=00E5FF&currStreakLabel=00E5FF"
-  />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abd123482&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=abd123482&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img
-    height="160"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd123482&layout=compact&theme=react&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF"
-  />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abd123482&layout=compact&theme=tokyonight" />
 </p>
 
 🧰 Languages & Tools
