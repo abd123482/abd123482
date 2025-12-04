@@ -22,8 +22,26 @@
 
 🛠️ Tech Stack
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,java,git,github,vscode,c,cpp" /> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abd123482&show_icons=true&theme=tokyonight" height="160"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=abd123482&theme=tokyonight" height="160"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd123482&layout=compact&theme=tokyonight" height="160"/> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=abd123482&show_icons=true&theme=react&bg_color=0D1117&title_color=00E5FF&icon_color=8A2BE2&text_color=FFFFFF"
+  />
+  <img
+    height="160"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abd123482&theme=react&background=0D1117&ring=8A2BE2&fire=00E5FF&currStreakLabel=00E5FF"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=abd123482&layout=compact&theme=react&bg_color=0D1117&title_color=8A2BE2&text_color=FFFFFF"
+  />
+</p>
+
 🧰 Languages & Tools
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> </p>
 🌟 🚀 Featured Projects
