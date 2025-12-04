@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:FF1493&height=200&section=header&text=Hi+I'm+NAS.rO&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=35"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=500&color=1E90FF&center=true&vCenter=true&width=500&lines=Web+Developer;Front-end+Designer;Creative+Thinker;C%2FC%2B%2B+Learner;Always+Learning+💡" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=wave&color=0:8A2BE2,100:00E5FF&height=200&section=header&text=NAS.rO&fontSize=42&fontColor=ffffff&animation=twinkling"/> </p> <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2800&pause=600&color=8A2BE2&center=true&vCenter=true&width=500&lines=Front-end+Developer;Web+Designer;C%2FC%2B%2B%2FJava+Learner;Creative+Mind;Always+Exploring+✨"/> </p>
 ✨ About Me
 
 💻 Passionate about Web Development & modern UI design
