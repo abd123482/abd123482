@@ -12,7 +12,7 @@
 
 🎨 I love creating smooth, animated, and aesthetic interfaces
 
-🧠 Currently learning C, C++, and Java
+🧠 Currently learning C, and Java
 
 🌐 Strong experience with HTML, CSS, JavaScript, React
 
@@ -21,7 +21,7 @@
 📧 Email: abdkkassl@gmail.com
 
 🛠️ Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,java,git,github,vscode,c,cpp" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,java,git,github,vscode,c" /> </p>
 📊 GitHub Stats
 <p align="center">
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abd123482&show_icons=true&theme=tokyonight" />
